@@ -33,12 +33,12 @@ body {
 }
 .navbox1 {
     width: 140px;
-    /*height: 120px;*/
+    /* height: 120px; */
     height: 40px;
     margin: 6px;
     background-color: red;
     position: relative;
-    display: inline-block;
-    bottom: 32px;
-    left: 32px;
+    display: block;
+    bottom: 35px;
+    left: 27px;
 }
