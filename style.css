@@ -22,8 +22,16 @@ body {
     width: 140px;
     height: 120px;
     background-color: red;
-    position: fixed;
+    position: relative;
     display: block;
     bottom: 32px;
     left: 32px;
+}
+.navbars {
+	position: absolute;
+	display: block;
+	color:blue;
+	width: 50px;
+	height: 35px;
+
 }
