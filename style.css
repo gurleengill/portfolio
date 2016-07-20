@@ -17,11 +17,11 @@ body {
 }
 
 #navbox {
-/* background-color: transparent;*/
- width:50px;
- height: 100px;
- background-color: red;
- position: fixed;
- display: block;
- bottom: 100px;
+    width: 140px;
+    height: 120px;
+    background-color: red;
+    position: fixed;
+    display: block;
+    bottom: 32px;
+    left: 32px;
 }
