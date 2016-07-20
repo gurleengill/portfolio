@@ -9,15 +9,19 @@ body {
 	margin: 0 auto;
 }
 
-.navbar {
+/*.navbar {
 	color:blue;
 	width: 130px;
 	margin: 5px;
 	height: 45px;
-
-	/*position: relative;
+	position: relative;
 	display: inline-block;
-*/
+}*/
+#navcont {
+	background-color: #ff9900;
+	height: 145px;
+	width: 155px; 
+	
 }
 
 .navbox {
@@ -53,3 +57,5 @@ body {
     bottom: 32px;
     left: 32px;
 }
+
+
