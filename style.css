@@ -27,7 +27,7 @@ body {
     margin: 6px;
     background-color: red;
     position: fixed;
-    display: block;
+    display: inline-block;
     bottom: 32px;
     left: 32px;
 }
