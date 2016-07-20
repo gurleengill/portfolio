@@ -19,9 +19,13 @@ body {
 }*/
 #navcont {
 	background-color: #ff9900;
-	height: 145px;
-	width: 155px; 
-	
+    height: 159px;
+    width: 162px;
+    display: block;
+    margin-left: 9px;
+    position: absolute;
+    left: 35px;
+
 }
 
 .navbox {
