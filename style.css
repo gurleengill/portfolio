@@ -22,7 +22,9 @@ body {
 
 .navbox {
     width: 140px;
-    height: 120px;
+    /*height: 120px;*/
+    height: 40px;
+    margin: 6px;
     background-color: red;
     position: fixed;
     display: block;
