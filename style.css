@@ -57,7 +57,17 @@ body {
     display: block;
     bottom: -11px;
     left: 12px;
+}
 
+.bar {
+	width: 150px;
+    height: 730px;
+    margin-bottom: 10px;
+    background-color: #c2c7ff;
+    position: relative;
+    display: block;
+    bottom: -11px;
+    left: 512px;
 }
 
 
