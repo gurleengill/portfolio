@@ -10,7 +10,7 @@ body {
 }
 
 #navcont {
-	background-color: #ff9900;
+	background-color: transparent;;
     height: 128px;
     width: 133px;
     display: block;
@@ -29,6 +29,7 @@ body {
     display: block;
     bottom: -8px;
     left: 12px;
+    padding: 10px;
 }
 .navbox1 {
    	width: 110px;
