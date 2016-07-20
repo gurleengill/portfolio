@@ -27,7 +27,7 @@ body {
     margin-bottom: 10px;
     background-color: red;
     position: relative;
-    display: inline-block;
+    display: block;
     bottom: 32px;
     left: 32px;
 }
