@@ -31,3 +31,14 @@ body {
     bottom: 32px;
     left: 32px;
 }
+.navbox1 {
+    width: 140px;
+    /*height: 120px;*/
+    height: 40px;
+    margin: 6px;
+    background-color: red;
+    position: fixed;
+    display: inline-block;
+    bottom: 32px;
+    left: 32px;
+}
