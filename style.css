@@ -1,8 +1,9 @@
 h1 {
 	color:white;
-	font-family: verdana; 
+	/*font-family: verdana; */
 }
 
 body {
 	background-color: black;
+	margin: 0 auto;
 }
