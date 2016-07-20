@@ -35,10 +35,21 @@ body {
     width: 140px;
     /* height: 120px; */
     height: 40px;
-    margin: 6px;
+    margin-bottom: 10px;
     background-color: red;
     position: relative;
     display: block;
-    bottom: 35px;
-    left: 27px;
+    bottom: 32px;
+    left: 32px;
+}
+.navbox2 {
+    width: 140px;
+    /* height: 120px; */
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: red;
+    position: relative;
+    display: block;
+    bottom: 32px;
+    left: 32px;
 }
