@@ -23,7 +23,7 @@ body {
 }
 
 .navbox {
-    width: 110px;
+    width: 100px;
     height: 30px;
     margin-bottom: 10px;
     background-color: #c2c7ff;
@@ -31,9 +31,10 @@ body {
     display: block;
     bottom: -8px;
     left: 12px;
+    padding: 5px;
 }
 .navbox1 {
-   	width: 110px;
+   	width: 100px;
     height: 30px;
     margin-bottom: 10px;
     background-color: #c2c7ff;
@@ -41,9 +42,10 @@ body {
     display: block;
     bottom: -9px;
     left: 12px;
+    padding: 5px;
 }
 .navbox2 {
-    width: 110px;
+    width: 100px;
     height: 30px;
     margin-bottom: 10px;
     background-color: #c2c7ff;
@@ -51,6 +53,7 @@ body {
     display: block;
     bottom: -11px;
     left: 12px;
+    padding: 5px;
 }
 
 .bar {
