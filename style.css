@@ -77,8 +77,8 @@ a {
     position: relative;
     display: inline-block;
     bottom: -11px;
-    left: 216px;
-    margin: 8px;
+    left: 0px;
+    margin: 10px;
 }
 
 .bar2 {
@@ -120,7 +120,8 @@ a {
 	width: 980px;
     height: 800px;
     background-color: red;
-    margin-left: -26px;
+    left: 216px;
+    position: relative;
 }
 
 
