@@ -117,9 +117,10 @@ a {
 }
 
 #barcont {
-	width: 945px;
-	height: 800px;
-	color: red;
+	width: 980px;
+    height: 800px;
+    background-color: red;
+    margin-left: -26px;
 }
 
 
