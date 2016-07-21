@@ -78,7 +78,7 @@ a {
     display: inline-block;
     bottom: -11px;
     left: 0px;
-    margin: 10px;
+    margin: 15px;
 }
 
 .bar2 {
@@ -89,8 +89,8 @@ a {
     position: relative;
     display: inline-block;
     bottom: -11px;
-    left: 216px;
-    margin: 8px;
+    left: 0px;
+    margin: 15px;
 }
 
 .bar3 {
@@ -101,8 +101,8 @@ a {
     position: relative;
     display: inline-block;
     bottom: -11px;
-    left: 216px;
-    margin: 8px;
+    left: 0px;
+    margin: 15px;
 }
 .bar-block {
 	width: 300px;
@@ -112,8 +112,8 @@ a {
     position: relative;
     display: block;
     bottom: -11px;
-    left: 216px;
-    margin: 8px;
+    left: 0px;
+    margin: 15px;
 }
 
 #barcont {
