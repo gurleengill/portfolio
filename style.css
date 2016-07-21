@@ -75,7 +75,7 @@ a {
     margin-bottom: 10px;
     background-color: #c2c7ff;
     position: relative;
-    display: block;
+    display: inline-block;
     bottom: -11px;
     left: 216px;
 }
@@ -86,7 +86,7 @@ a {
     margin-bottom: 10px;
     background-color: #c2c7ff;
     position: relative;
-    display: block;
+    display: inline-block;
     bottom: -11px;
     left: 216px;
 }
