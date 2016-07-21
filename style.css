@@ -7,6 +7,8 @@ h1 {
 body {
 	background-color: black;
 	margin: 0 auto;
+	font-family: helvetica;
+	color: white;
 }
 
 #navcont {
@@ -29,7 +31,6 @@ body {
     display: block;
     bottom: -8px;
     left: 12px;
-    padding: 10px;
 }
 .navbox1 {
    	width: 110px;
