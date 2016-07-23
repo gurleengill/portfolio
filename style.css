@@ -121,4 +121,14 @@ a {
     position: relative;
 }
 
+.bar img {
+    max-height: 350px;
+}
+
+img {
+    max-width: 100%;
+}
+img {
+    border: 0;
+}
 
