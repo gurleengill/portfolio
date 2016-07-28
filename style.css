@@ -115,7 +115,7 @@ a {
     width: 995px;
     height: 800px;
     background-color: transparent;
-    left: 300px;
+    left: 365px;
     position: relative;
 }
 
@@ -142,7 +142,7 @@ img {
 .imagebox {
     width: 75%;
     height: 75%;
-    background-color: #c2c7ff;
+/*    background-color: #c2c7ff;*/
     position: relative;
     display: inline-block;
     bottom: -11px;
@@ -153,7 +153,7 @@ img {
 .imagebox2 {
     width: 75%;
     height: 75%;
-    background-color: #c2c7ff;
+    /*background-color: #c2c7ff;*/
     position: relative;
     display: inline-block;
     bottom: -11px;
@@ -164,7 +164,7 @@ img {
 .imagebox3 {
     width: 75%;
     height: 75%;
-    background-color: #c2c7ff;
+    /*background-color: #c2c7ff;*/
     position: relative;
     display: inline-block;
     bottom: -11px;
