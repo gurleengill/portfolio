@@ -196,6 +196,18 @@ img {
     zoom:60%;
 }
 
+.iimagebox22 {
+    width: 75%;
+    height: 75%;
+    /*background-color: #c2c7ff;*/
+    position: relative;
+    display: inline-block;
+    bottom: -11px;
+    left: 0px;
+    margin: 10px;
+    zoom:56%;
+}
+
 .iimagebox3 {
     width: 75%;
     height: 75%;
