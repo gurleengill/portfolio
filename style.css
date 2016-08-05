@@ -172,8 +172,41 @@ img {
     margin: 10px;
 }
 
-.imagebox .imagebox2 .imagebox3 img{
+.iimagebox {
+    width: 75%;
+    height: 75%;
+/*    background-color: #c2c7ff;*/
+    position: relative;
+    display: inline-block;
+    bottom: -11px;
+    left: 0px;
+    margin: 10px;
     zoom:80%;
 }
+
+.iimagebox2 {
+    width: 75%;
+    height: 75%;
+    /*background-color: #c2c7ff;*/
+    position: relative;
+    display: inline-block;
+    bottom: -11px;
+    left: 0px;
+    margin: 10px;
+    zoom:80%;
+}
+
+.iimagebox3 {
+    width: 75%;
+    height: 75%;
+    /*background-color: #c2c7ff;*/
+    position: relative;
+    display: inline-block;
+    bottom: -11px;
+    left: 0px;
+    margin: 10px;
+    zoom:80%;
+}
+
 
 
